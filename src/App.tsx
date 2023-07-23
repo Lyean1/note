@@ -5,7 +5,7 @@ import './App.css';
 const App: React.FC = () => {
   return (
     <div className="app">
-      <Navbar title="lyean note" />
+      <Navbar title="Lyean's note" />
     </div>
   );
 };
