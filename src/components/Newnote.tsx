@@ -1,1 +1,1 @@
-const Newnote
+const Newnote: React.FC 
