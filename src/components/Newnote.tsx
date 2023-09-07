@@ -6,4 +6,4 @@ const Newnote: React.FC = () => {
     )
 }
 
-export default
+export default Newnote
