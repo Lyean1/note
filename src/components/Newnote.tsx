@@ -1,1 +1,3 @@
-const Newnote: React.FC 
+const Newnote: React.FC = () => {
+    
+}
