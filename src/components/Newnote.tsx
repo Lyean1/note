@@ -5,3 +5,5 @@ const Newnote: React.FC = () => {
         </div>
     )
 }
+
+export
