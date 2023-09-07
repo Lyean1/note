@@ -1,7 +1,7 @@
 const Newnote: React.FC = () => {
     return (
-        <div>
-            
+        <div className="newnote">
+
         </div>
     )
 }
